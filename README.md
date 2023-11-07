@@ -1,2 +1,0 @@
-# ziptrip
-Zip trip code
